@@ -395,11 +395,8 @@ p,
       background: inherit;
       width: 100vw;
       margin-right: -100rem; }
-    .bottomappbar-sm .bottomappbar-item {
-      margin: 0 -0.1rem;
-      padding: 0.7rem 2rem; }
-      .bottomappbar-sm .bottomappbar-item:hover {
-        background: inherit; }
+    .bottomappbar-sm .bottomappbar-item:hover {
+      background: inherit; }
     .bottomappbar-sm .bottomappbar-icon, .bottomappbar-sm .bottomappbar-icon::before {
       display: block;
       text-align: center; }
